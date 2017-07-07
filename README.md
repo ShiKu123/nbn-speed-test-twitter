@@ -6,7 +6,7 @@ This small tool posts to MyRepublic and NBN Twitter if download speeds are below
 
 ### Required libraries
 ```
-sdsdtime
+time
 randint
 ```
 
