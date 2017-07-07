@@ -14,6 +14,6 @@ randint
 
 [twitter github](https://github.com/sixohsix/twitter)
 ```
-pip install speedtest-clisd
+pip install speedtest-cli
 pip install twitter
 ```
