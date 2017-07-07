@@ -11,7 +11,7 @@ randint
 ```
 
 [speedtest-cli github](https://github.com/sivel/speedtest-cli)
-sdsdds
+
 [twitter github](https://github.com/sixohsix/twitter)
 ```
 pip install speedtest-clisd
