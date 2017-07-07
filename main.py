@@ -65,7 +65,7 @@ if __name__ == "__main__":
     while True:
         # posts status update to twitter when download 
         # is less than 30Mbps (30 MegaBits per second)
-        if download < 50 || upload < 10:
+        if download < 50 or upload < 10:
             # tweet the speed results and time.
             tweet(download, upload, now_time)
         # sleep for 30 minutes
